@@ -1,6 +1,6 @@
 # Weather Application
 
-You can try the application at the following link: [Weather Application]([https://link-url-here.org](https://kiricode-weather-app.netlify.app)
+You can try the application at the following link: [Weather Application](https://link-url-here.org](https://kiricode-weather-app.netlify.app)
 
 ## Code Explanation
 

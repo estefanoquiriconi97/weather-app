@@ -1,5 +1,7 @@
 # Weather Application
 
+You can try the application at the following link: [Weather Application]([https://link-url-here.org](https://kiricode-weather-app.netlify.app/))
+
 ## Code Explanation
 
 The above code consists of two main functions: `fetchWeatherData(city)` and `displayWeatherData(data)`. Here's how each one works:
